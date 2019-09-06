@@ -1,0 +1,16 @@
+{
+	"name": "template-blank-mobile",
+	"version": "1.0.0",
+	"title": "Mobile 空白模版",
+	"description": "",
+	"type": "template",
+	"platform": [
+		"MOBILE"
+	],
+	"homePage": "",
+	"category": [],
+	"screenshots": [],
+	"path": "templates/template-blank-mobile",
+	"origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+	"hash": "a05ee3c593d9ad4e916f65d48452f1ca"
+}
